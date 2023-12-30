@@ -1,2 +1,2 @@
-# python-
-making repository for coding purpose
+# Programs of python
+Programs of python
